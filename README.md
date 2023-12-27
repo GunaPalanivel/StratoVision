@@ -28,11 +28,7 @@ We welcome contributions from the community. If you'd like to contribute to Stra
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
-
-## Contact
-
-For inquiries and support, please contact Guna Palanivel at [your@email.com].
+This project is licensed under the [MIT License](LICENSE)
 
 ---
 
